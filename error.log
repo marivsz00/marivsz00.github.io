@@ -262,3 +262,77 @@ remote: Permission to marivsz00/marivsz00.github.io.git denied to Zakkemd.
 fatal: unable to access 'https://github.com/marivsz00/marivsz00.github.io.git/': The requested URL returned error: 403
 
 
+----------
+
+Wed Feb 01 2023 13:34:32 GMT+0100 (czas środkowoeuropejski standardowy)
+
+warning: in the working copy of 'assets/bootstrap/css/bootstrap.min.css', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Wed Feb 01 2023 13:34:32 GMT+0100 (czas środkowoeuropejski standardowy)
+
+warning: in the working copy of 'assets/bootstrap/js/bootstrap.min.js', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Wed Feb 01 2023 13:34:32 GMT+0100 (czas środkowoeuropejski standardowy)
+
+warning: in the working copy of 'assets/css/Animated-Type-Heading.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'assets/css/animate.min.css', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Wed Feb 01 2023 13:34:32 GMT+0100 (czas środkowoeuropejski standardowy)
+
+warning: in the working copy of 'assets/fonts/font-awesome.min.css', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Wed Feb 01 2023 13:34:32 GMT+0100 (czas środkowoeuropejski standardowy)
+
+warning: in the working copy of 'assets/fonts/fontawesome-webfont.svg', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Wed Feb 01 2023 13:34:32 GMT+0100 (czas środkowoeuropejski standardowy)
+
+warning: in the working copy of 'assets/fonts/typicons.svg', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Wed Feb 01 2023 13:34:32 GMT+0100 (czas środkowoeuropejski standardowy)
+
+warning: in the working copy of 'assets/js/Animated-Type-Heading-type-headline.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'assets/js/bs-init.js', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Wed Feb 01 2023 13:34:32 GMT+0100 (czas środkowoeuropejski standardowy)
+
+warning: in the working copy of 'assets/js/freelancer.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'error.log', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Wed Feb 01 2023 13:34:32 GMT+0100 (czas środkowoeuropejski standardowy)
+
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Wed Feb 01 2023 13:35:15 GMT+0100 (czas środkowoeuropejski standardowy)
+
+remote: Permission to marivsz00/marivsz00.github.io.git denied to Zakkemd.
+fatal: unable to access 'https://github.com/marivsz00/marivsz00.github.io.git/': The requested URL returned error: 403
+
+
